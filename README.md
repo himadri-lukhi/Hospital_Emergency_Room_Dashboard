@@ -17,4 +17,5 @@ An interactive Excel dashboard for analyzing hospital emergency room data using 
 - Department-wise Referrals
 - Interactive Month & Year Filters
 
-<img width="1181" height="552" alt="image" src="https://github.com/user-attachments/assets/73829943-ac57-4225-9c03-f6f545011050" />
+<img width="1185" height="557" alt="Hospital_Emergency_Room _Dashboard" src="https://github.com/user-attachments/assets/1ee9b33a-a212-4f27-84cf-17d5d587fe2e" />
+
